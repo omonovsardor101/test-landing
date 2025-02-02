@@ -1,7 +1,9 @@
 ## Для работы необходимо:
->* node js
->* npm
->* gulp 4
+- > node js
+
+- > npm
+
+- > gulp 4
     npm install gulpjs/gulp.git#4.0 --save-dev
 ## Инструкция для старта проекта:
 * Склонировать репозиторий
